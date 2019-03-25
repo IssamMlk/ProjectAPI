@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_margin="@dimen/cardview_default_radius"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textViewName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Heading"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+            <TextView
+                android:id="@+id/textViewNum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description1" />
+
+            <TextView
+                android:id="@+id/textViewHeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description2" />
+
+            <TextView
+                android:id="@+id/textViewWeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description3" />
+
+            <TextView
+                android:id="@+id/textViewCandy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description4" />
+
+            <TextView
+                android:id="@+id/textViewCandy_count"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description5" />
+
+            <TextView
+                android:id="@+id/textViewEgg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description6" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+
+    </android.support.v7.widget.CardView>
+
+</android.support.constraint.ConstraintLayout>
