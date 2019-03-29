@@ -40,7 +40,7 @@ Cette application affiche une grille de pokémon et lors du choix d'un élément
 <strong>Premier écran:</strong>
 <ol><ul>-Splash d'une durée de 5s affichant un écran d'accueil</ul></ol>
   
- 
+ <img src="images/homeecran.png" alt="home">
 
 <strong>Deuxième ecran:</strong> 
   <ol><ul>-Affichage du pokedex avec la liste des 151 pokemon</ul></ol>
