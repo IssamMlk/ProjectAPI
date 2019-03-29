@@ -10,8 +10,8 @@ Cette application affiche une grille de pokémon et lors du choix d'un élément
 
 <h2>Prérequis</h2>
 <ol>
- <li>Installation d'Android Studio</li>
- <li>Récupérer une API</li>
+ <ul>- Installation d'Android Studio</li>
+ <ul>- Récupérer une API</li>
 </ol>
 
 
@@ -25,10 +25,10 @@ https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/po
  <ul>Affichage d'une liste dans un RecyclerView</ul>
 <ul>Affichage du détail d'un item de la liste</ul>
  <ul>Fonctions supplémentaires:</ul> 
-  <ol><ul>Affichage en grille</ul>
-   <ul>Ecran d'accueil de 5s</ul>
-   <ul>Message qui indique l'item choisi</ul>
-   <ul>Icon</ul></ol>
+  <ol><ul>-Affichage en grille</ul>
+   <ul>-Ecran d'accueil de 5s</ul>
+   <ul>-Message qui indique l'item choisi</ul>
+   <ul>-Icon</ul></ol>
 
 <h2>Fonctionnalités:</h2>
 
