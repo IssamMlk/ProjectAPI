@@ -3,8 +3,7 @@
 
 <h2>Présentation</h2>
 
-Le but de ce projet est de réaliser une application mobile qui execute un appel API et qui  
-ouvre un second écran avec des détails, lors d'un clique sur l'un des éléments de la liste.
+Le but de ce projet est de réaliser une application mobile qui execute un appel API et qui ouvre un second écran avec des détails, lors d'un clique sur l'un des éléments de la liste.
 
 Cette application affiche une grille de pokémon et lors du choix d'un élément de la liste, une fiche détaillé du pokemon s'ouvre alors donnant sa taille, son poid et plusieurs informations complémentaire.
 
