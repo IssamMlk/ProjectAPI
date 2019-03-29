@@ -20,15 +20,15 @@ https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/po
 <h2>Consignes respectées:</h2>
 
 <ol>
- <li>Appels API</li>
-<li>Ecran: 2 activités</li>
- <li>Affichage d'une liste dans un RecyclerView</li>
-<li>Affichage du détail d'un item de la liste</li>
- <li>Fonctions supplémentaires:</li> 
-  <ol><li>Affichage en grille</li>
-   <li>Ecran d'accueil de 5s</li>
-   <li>Message qui indique l'item choisi</li>
-   <li>Icon</li></ol>
+ <ul>Appels API</ul>
+<ul>Ecran: 2 activités</ul>
+ <ul>Affichage d'une liste dans un RecyclerView</ul>
+<ul>Affichage du détail d'un item de la liste</ul>
+ <ul>Fonctions supplémentaires:</ul> 
+  <ol><ul>Affichage en grille</ul>
+   <ul>Ecran d'accueil de 5s</ul>
+   <ul>Message qui indique l'item choisi</ul>
+   <ul>Icon</ul></ol>
 
 <h2>Fonctionnalités:</h2>
 
