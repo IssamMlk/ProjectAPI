@@ -1,5 +1,8 @@
 <h1>Projet Mobile Pokémon</h1>
 
+Issam MALLEK
+classe 33
+
 
 <h2>Présentation</h2>
 
