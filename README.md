@@ -29,26 +29,25 @@ https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/po
   <ol><li>Affichage en grille</li>
    <li>Ecran d'accueil de 5s</li>
    <li>Message qui indique l'item choisi</li>
-   <li>Ico</li></ol>
+   <li>Icon</li></ol>
 
 <h2>Fonctionnalités:</h2>
 
-<h3>Icon de l'application:</h3><ol><li>
+<strong>Icon de l'application:</strong><ol><li>
  Icon permettant d'identifier l'application</li></ol>
 
-Premier écran:<ol><li>
- Splash d'une durée de 5s affichant un écran d'accueil</li></ol>
+<strong>Premier écran:</strong>
+<ol><li> Splash d'une durée de 5s affichant un écran d'accueil</li></ol>
   
 
-Deuxième ecran: 
+<strong>Deuxième ecran:</strong> 
   <ol><li>Affichage du pokedex avec la liste des 151 pokemon</li></ol>
   
  
-Ecran détaillé:
+<strong>Ecran détaillé:</strong>
     <ol><li>Affichage plusieurs informations sur le pokemon tel que la taille, le poid, le type de bonbon ou encore le nombre de km nécessaire à l'éclosion de l'oeuf</li></ol>
     
     
-   
-    <ol><li>Message obtenus lors du choix du pokemon</li></ol>
+<ol><li>message obtenu lors du choix d'un pokemon</li></ol>
     
     
