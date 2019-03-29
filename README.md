@@ -15,7 +15,7 @@ Cette application affiche une grille de pokémon et lors du choix d'un élément
 </ol>
 
 
-https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/pokemon
+      https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/pokemon
 
 <h2>Consignes respectées:</h2>
 
