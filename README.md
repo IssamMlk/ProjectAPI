@@ -1,5 +1,4 @@
 <h1>Projet Mobile Pokémon</h1>
-by Issam Mallek
 
 
 <h2>Présentation</h2>
@@ -21,32 +20,35 @@ https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/po
 
 <h2>Consignes respectées:</h2>
 
--Appels API
--Ecran: 2 activités
--Affichage d'une liste dans un RecyclerView
--Affichage du détail d'un item de la liste
--Fonctions supplémentaires: 
-  - Affichage en grille
-  - Ecran d'accueil de 5s
-  - Message qui indique l'item choisi
-  - Icon
+<ol>
+ <li>Appels API</li>
+<li>Ecran: 2 activités</li>
+ <li>Affichage d'une liste dans un RecyclerView</li>
+<li>Affichage du détail d'un item de la liste</li>
+ <li>Fonctions supplémentaires:</li> 
+  <ol><li>Affichage en grille</li>
+   <li>Ecran d'accueil de 5s</li>
+   <li>Message qui indique l'item choisi</li>
+   <li>Ico</li></ol>
 
 <h2>Fonctionnalités:</h2>
 
-<h3>Icon de l'application:</h3>
-  -Icon permettant d'identifier l'application
+<h3>Icon de l'application:</h3><ol><li>
+ Icon permettant d'identifier l'application</li></ol>
 
-Premier écran:
-  -Splash d'une durée de 5s affichant un écran d'accueil
+Premier écran:<ol><li>
+ Splash d'une durée de 5s affichant un écran d'accueil</li></ol>
   
 
 Deuxième ecran: 
-  -Affichage du pokedex avec la liste des 151 pokemon
+  <ol><li>Affichage du pokedex avec la liste des 151 pokemon</li></ol>
   
  
-Ecran détaillé
-    -Affichage plusieurs informations sur le pokemon tel que la taille, le poid, le type de bonbon ou encore le nombre de km nécessaire à l'éclosion de l'oeuf
+Ecran détaillé:
+    <ol><li>Affichage plusieurs informations sur le pokemon tel que la taille, le poid, le type de bonbon ou encore le nombre de km nécessaire à l'éclosion de l'oeuf</li></ol>
     
-    -Message obtenus lors du choix du pokemon
+    
+   
+    <ol><li>Message obtenus lors du choix du pokemon</li></ol>
     
     
