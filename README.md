@@ -1,8 +1,8 @@
-Projet Mobile Pokémon
+<h1>Projet Mobile Pokémon</h1>
 by Issam Mallek
 
 
-Présentation
+<h2>Présentation</h2>
 
 Le but de ce projet est de réaliser une application mobile qui execute un appel API, 
 ouvrir un second écran lors d'un clique sur l'un des éléments de la liste.
@@ -10,13 +10,16 @@ ouvrir un second écran lors d'un clique sur l'un des éléments de la liste.
 Cette application affiche une liste de pokémon et utilise une API sur le repo d'un utilisateur Github.
 
 
-Prérequis
-- Installation d'Android Studio
-- Récupérer une API
+<h2>Prérequis</h2>
+<ol>
+ <li>Installation d'Android Studio</li>
+ <li>Récupérer une API</li>
+</ol>
+
 
 https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/pokemon
 
-Consignes respectées:
+<h2>Consignes respectées:</h2>
 
 -Appels API
 -Ecran: 2 activités
@@ -28,9 +31,9 @@ Consignes respectées:
   - Message qui indique l'item choisi
   - Icon
 
-Fonctionnalités:
+<h2>Fonctionnalités:</h2>
 
-Icon de l'application:
+<h3>Icon de l'application:</h3>
   -Icon permettant d'identifier l'application
 
 Premier écran:
